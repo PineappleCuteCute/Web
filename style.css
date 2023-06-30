@@ -1,0 +1,120 @@
+body{
+    background-color:antiquewhite;
+    margin: 100px 100px 100px 100px;
+}
+h1{
+    background-color: orange;
+    color: blueviolet;
+    height: 100;
+    text-align: center;
+    font-weight: 900;
+    margin: 100px 0px 0px 0px;
+    font-size: 1cm;
+    padding: 100px;
+}
+
+
+h2{
+    background-color:#90ff08;
+    size: 100px;
+    color: #aa0000;
+    font-size: 1cm;
+    height: 100;
+    text-align: center;
+    padding: 50px;
+}
+h3{
+    background-color:coral;
+    color: #90ff08;
+    font-size: 1cm;
+    size: 100;
+    height: 100;
+    text-align: center;
+    padding: 20px;
+}
+.header{
+    background-color: aquamarine;
+    color: blueviolet;
+    height: 100;
+    text-align: center;
+    font-weight: 900;
+    margin: 100px 0px 0px 0px;
+    font-size: 1cm;
+    padding: 20px;
+    /*background-image: url(https://i.pinimg.com/originals/78/2f/03/782f032235bd4b00c80de140b8e70538.jpg);*/
+}
+.nav{
+    background-color: blue;
+    size: 100px;
+    color: antiquewhite;
+    font-size: 1cm;
+    height: 100;
+    text-align: center;
+    padding: 20px;
+}
+.footer{
+    background-color: brown;
+    color: #90ff08;
+    font-size: 1cm;
+    size: 100;
+    height: 100;
+    text-align: center;
+    padding: 20px;
+}
+
+iframe{
+    margin: 0px 100px 0px 150px;
+}
+
+video{
+    margin: 0px 0px  0px 200px;
+}
+
+table{
+    margin: 0px 0px 0px 190px;
+}
+
+p{
+    background-color: aliceblue;
+}
+
+img{
+    margin-left: -28px;
+}
+
+.img1{
+    margin: auto;
+}
+.img2{
+    margin: 50px 0px 0px 250px;
+}
+
+#album{
+    background-color:antiquewhite;
+    margin-bottom: -80px;
+}
+
+#p1{
+    text-align: left;
+    font-size:medium;
+    color: black;
+    font-weight: 100;
+}
+
+#Paris{
+    background-color: aliceblue;
+    color: black;
+    font-size: medium;
+    font-weight: 100;
+    text-align: left;
+}
+
+#div1{
+    background-color: aliceblue;
+    color: black;
+    text-align: left;
+    font-size: medium;
+    font-weight: 100;
+}
+
+
